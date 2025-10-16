@@ -1,0 +1,865 @@
+
+Info:    Starting Loop
+
+Trace:   Blinking Cursor at 0
+
+>  Trace:   Blinking Cursor: page 1, column 256, repeats 45
+
+>  >  Trace:   Setting RAM Pointer: page 1, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 1, column 256
+
+>  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Setting RAM Pointer: page 1, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 1, column 256
+
+>  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Setting RAM Pointer: page 1, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 1, column 256
+
+>  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Setting RAM Pointer: page 1, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 1, column 256
+
+>  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Setting RAM Pointer: page 1, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 1, column 256
+
+>  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Setting RAM Pointer: page 1, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 1, column 256
+
+>  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Setting RAM Pointer: page 1, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 1, column 256
+
+>  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Setting RAM Pointer: page 1, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 1, column 256
+
+>  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Setting RAM Pointer: page 1, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 1, column 256
+
+>  Trace:   Blinking Cursor: Done Blinking Cursor
+
+Trace:   Done Blinking Cursor
+
+>  Trace:   Printing: "THIS IS A GREAT DEMO!"
+
+>  >  Trace:   Setting RAM Pointer: page 1, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 1, column 256
+
+>  Trace:   Print: Scaling the text by 2
+
+>  >  Trace:   Sending command: 120
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: Command 120 Sent
+
+>  >  Trace:   Sending command: 221
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: Command 221 Sent
+
+>  >  Trace:   Sending command: 222
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: Command 222 Sent
+
+>  Trace:   Print: No delay
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Sending command: 120
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: Command 120 Sent
+
+>  >  Trace:   Sending command: 120
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: Command 120 Sent
+
+>  Trace:   Print: Done Printing. Setting Memory Addressing Mode to Page Addressing
+
+Trace:   Blinking Cursor at 0
+
+>  Trace:   Blinking Cursor: page 3, column 256, repeats 45
+
+>  >  Trace:   Setting RAM Pointer: page 3, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 3, column 256
+
+>  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Setting RAM Pointer: page 3, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 3, column 256
+
+>  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Setting RAM Pointer: page 3, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 3, column 256
+
+>  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Setting RAM Pointer: page 3, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 3, column 256
+
+>  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Setting RAM Pointer: page 3, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 3, column 256
+
+>  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Setting RAM Pointer: page 3, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 3, column 256
+
+>  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Setting RAM Pointer: page 3, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 3, column 256
+
+>  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Setting RAM Pointer: page 3, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 3, column 256
+
+>  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Setting RAM Pointer: page 3, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 3, column 256
+
+>  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Setting RAM Pointer: page 3, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 3, column 256
+
+>  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Setting RAM Pointer: page 3, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 3, column 256
+
+>  Trace:   Blinking Cursor: Done Blinking Cursor
+
+Trace:   Done Blinking Cursor
+
+Trace:   Printing Message  "# OF PROBLEMS: "...
+
+>  Trace:   Printing: "# OF PROBLEMS: "
+
+>  >  Trace:   Setting RAM Pointer: page 3, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 3, column 256
+
+>  Trace:   Print: Scaling the text by 2
+
+>  >  Trace:   Sending command: 120
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: Command 120 Sent
+
+>  >  Trace:   Sending command: 221
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: Command 221 Sent
+
+>  >  Trace:   Sending command: 222
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: Command 222 Sent
+
+>  Trace:   Print: No delay
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   Sending command: 120
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: Command 120 Sent
+
+>  >  Trace:   Sending command: 120
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: Command 120 Sent
+
+>  Trace:   Print: Done Printing. Setting Memory Addressing Mode to Page Addressing
+
+Trace:   Done Printing Message
+
+Trace:   Printing Number 7483...
+
+>  Trace:   Writing Number: 7483
+
+>  >  Trace:   Setting RAM Pointer: page 4, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 4, column 256
+
+>  Trace:   Loading the I2C buffer with the numeric characters
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  Trace:   SSD1306: Done Writing Number
+
+Trace:   Done Printing Number
+
+>  Trace:   Clearing the screen
+
+>  >  Trace:   Setting RAM Pointer: page 0, position 256
+
+>  >  >  Trace:   SSD1306: Loading the I2C Buffer
+
+>  >  >  Trace:   SSD1306: I2C Buffer Loaded
+
+>  >  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 0
+
+>  >  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: RAM Pointer Set to page 0, column 256
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  >  Trace:   SSD1306: I2C Write Pending...First byte is supposed to: 40
+
+>  >  Warning: SSD1306: I2C Bus Busy
+
+>  >  Info:    SSD1306: I2C Write Sucessful
+
+>  >  Trace:   SSD1306: I2C Write Finished
+
+>  Trace:   SSD1306: Screen Cleared
+
+Trace:   Clearing Screen
+
+Info:    ... End of Loop ...
+
